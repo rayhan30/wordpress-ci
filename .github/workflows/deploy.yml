@@ -19,5 +19,5 @@ jobs:
           remote-user: u393900437
           private-ssh-key: ${{ secrets.SSH_KEY }}
           ssh-port: 65002
-          source-path: wp-content/themes/twentytwentyfive/
-          destination-path: /home/u393900437/domains/abu-rayhan.me/public_html/staging/wp-content/themes/twentytwentyfive/
+          source-path: wp-content/themes/_s-master/
+          destination-path: /home/u393900437/domains/abu-rayhan.me/public_html/staging/wp-content/themes/_s-master/
